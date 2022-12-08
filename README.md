@@ -1,2 +1,3 @@
 # HTML-CSS-Projects
-A repository for projects utilizing HTML and CSS from assignments from The Tech Academy
+## Introduction
+Hello! This is a repository is the place where I'll be storing any HTML/CSS related projects done while doing the HTML AND CSS COURSE from The Tech Academy.
