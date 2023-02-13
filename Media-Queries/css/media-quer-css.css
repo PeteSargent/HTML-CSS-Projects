@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+
+}
+h1{
+    color: white;
+}
+@media screen and (max-width: 600px){
+    html {
+        color: rgb(0, 132, 255);
+    }
+}
