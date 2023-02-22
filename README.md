@@ -5,6 +5,6 @@ Hey there, this repository is where I've stored the various HTML and CSS project
 ### Portfolio Website
 This is a webpage I've created that I'll be progressively adding to as I progress through my coding bootcamp with The Tech Academy. It is to become my portfolio website and as of this writing already has a url at https://petesargent.github.io/ .
 ### Movie Theatre Site
-Found in bootstrap4_project > cinemas.html. Cinema themed Html website utilizing Boostrap and/or CSS.
+Example of a home page for a Movie Theatre styled using Bootstrap 4. Contains several Bootstrap components including but not limited to a navbar, jumbotron, form and cards.
 ### Space Station Site
-Html website with a Space Vactions type theme utilizing CSS. Found in the Space_Station_Site folder.
+Example of a home page for a Space Travel company, styled using CSS and contains a navbar, image containers and a form. 
